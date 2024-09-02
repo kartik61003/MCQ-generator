@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: mcqgenerator
+Version: 0.0.1
+Author: kartik
+Author-email: kartik61003@gmail.com
+Requires-Dist: langchain
+Requires-Dist: langchain_community
+Requires-Dist: openai
+Requires-Dist: pandas
+Requires-Dist: dotenv
+Requires-Dist: PyPDF2
+Requires-Dist: streamlit

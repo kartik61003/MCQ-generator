@@ -1,0 +1,37 @@
+{
+    "1":{
+        "no": "1",
+        "mcq": "mulitple choice question ",
+        "options" : {
+            "a": "option a",
+            "b": "option b",
+            "c": "option c",
+            "d": "option d"
+        },
+        "correct": "correct answer"
+    },
+
+    "2":{
+        "no": "2",
+        "mcq": "mulitple choice question ",
+        "options" : {
+            "a": "option a",
+            "b": "option b",
+            "c": "option c",
+            "d": "option d"
+        },
+        "correct": "correct answer"
+    },
+
+    "3":{
+        "no": "3",
+        "mcq": "mulitple choice question ",
+        "options" : {
+            "a": "option a",
+            "b": "option b",
+            "c": "option c",
+            "d": "option d"
+        },
+        "correct": "correct answer"
+    }
+}
